@@ -1,0 +1,29 @@
+body{
+    background-color: #76807e;
+}
+a{
+    display: block;
+    text-align: center;
+    
+}
+
+h1{
+    background-color: #3b413e;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+img{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin: auto; 
+    border-radius: 20px;
+}
+
+p{
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: justify;
+}
